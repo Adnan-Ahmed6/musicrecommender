@@ -4,7 +4,6 @@ from tokenize import cookie_re
 from pygame import mixer
 import os 
 import fnmatch 
-from tinytag import TinyTag
 
 #import function for notebook
 ###################################################################################################################################################################
