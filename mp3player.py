@@ -126,8 +126,7 @@ text=tk.Text(canvas, width=80, height=15)
 
 text.pack()
 
-#label_recomm = tk.Text(canvas, bg = 'black', fg = 'cyan', height = 10, width = 100)
-#label_recomm.pack(padx = 15, pady = 20)
+
 
 def select():
     label.config(text = listbox.get("anchor"))
